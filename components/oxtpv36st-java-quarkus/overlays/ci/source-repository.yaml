@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: oxtpv36st-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/oxtpv36st-java-quarkus
